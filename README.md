@@ -32,6 +32,12 @@ The Titanic disaster is one of the most well-known shipwrecks in history. This p
 - **Passenger Class:** 1st class passengers survived more than 3rd class passengers
 - **Most Important Features:** `Sex` and `Pclass` are the strongest predictors of survival
 
+## 📈 Visualizations
+
+![Survival Count](reports/survived_count.png)
+![Survival by Gender](reports/survival_by_gender.png)
+![Survival by Class](reports/survival_by_class.png)
+
 ---
 
 ## 📁 Project Structure
